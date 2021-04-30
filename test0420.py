@@ -5,3 +5,4 @@ for i in range(1, 101):
         print("Fizz")
 
 print('100')
+print('101')
