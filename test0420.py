@@ -3,3 +3,5 @@ for i in range(1, 101):
         print("FizzBuzz")
     elif i % 3 == 0:
         print("Fizz")
+
+print('100')
