@@ -11,6 +11,8 @@ print('103 - BugFix')
 print('104 - add')
 print('105 - add')
 print('106 - add #push#')
+print('107 - BugFix')
+print('108 - bugfix')
 print('109 - bugfix - added at origin')
 
 print('110 - add feature')
